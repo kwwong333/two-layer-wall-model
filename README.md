@@ -1,6 +1,8 @@
 # Two-Layer-Wall-Model
 Implementation of Two-Layer Wall Model for High Schmidt and Prandtl Numebr under Various Frictional Reynolds Number Conditions
 
+PS: Update remains to be done for python implementation, openfoam and FLUENT implementation.
+
 ## Model Description
 The equations of two-layer scalar turbulent diffusivity can be written as,
 

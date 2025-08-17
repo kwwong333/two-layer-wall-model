@@ -14,9 +14,8 @@ $$
 c^+ \=\ 
 \int \left[
    1 + \dfrac{y^+}{Sc\ Re_\tau} \right] \frac{Sc}
-        { 1 + Sc \ \dfrac{ \beta k_{Re}\ {y^+}^3 \ +\  (1-\beta)\ k_{Sc}\ {y^+}^{3.3} }
-                             { (k_{Re}\ y^+)^2 \+\ C_{th}^2 } }
- \ dy^+
+        { 1 + Sc \ \left[ \dfrac{ \beta k_{Re}\ {y^+}^3 \ +\  (1-\beta)\ k_{Sc}\ {y^+}^{3.3} }
+                    { (k_{Re}\ y^+)^2 \+\ C_{th}^2 } \right]} dy^+
 $$
 
 ## References

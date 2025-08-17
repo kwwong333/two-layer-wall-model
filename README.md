@@ -1,4 +1,4 @@
-# Two-Layer-Wall-Model
+# Two Layer Model for High Schmidt and Prandtl Turbulent Boundary Layer
 Implementation of Two-Layer Wall Model for High Schmidt and Prandtl Numebr under Various Frictional Reynolds Number Conditions
 
 PS: Update remains to be done for python implementation, openfoam and FLUENT implementation.

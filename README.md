@@ -34,4 +34,5 @@ $$
 2. Wong, K. W.\*, Mickus, I., Grishchenko, D., Kudinov, P. (2024). Enabling Passive Scalar Wall Modelling in Large Eddy Simulation for Turbulent Flows at High Schmidt or Prandtl Numbers, Abstract Submitted to 31th International Conference on Nuclear Engineering (ICONE-31), Prague, Czech Republic.
 3. Wong, K. W.\*, Mickus, I., Grishchenko, D., Kudinov, P. (2024). Empirical Two-Layer Model for Predicting Near-Wall Diffusive Flux at High Schimdt or Prandtl Numbers, 12th International Conference in Computational Fluid Dynamics (ICCFD-12), Kobe, Japan.
 
-
+## Acknowledgement
+Current research was supported by the Swedish Foundation for Strategic Research (SSF) through Grant No. ARC190043 granted to the Sustainable Nuclear Energy Research in Sweden (SUNRISE) project.

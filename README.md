@@ -21,11 +21,6 @@ c^+ \=\
  \ dy^+
 $$
 
-## Sample Compairsion between Single-Layer to Two-Layer Model
-<p align="center">
-  <img width="417" height="315" alt="image" src="https://github.com/user-attachments/assets/92c5f26c-0a41-4792-93d9-6705549edd5a" />
-</p>
-
 ## References
 ### Journal Publications
 1. Wong, K. W.* , Mickus, I., Grishchenko, D., Kudinov, P. (2025). A Modified Two-Layer Scalar Diffusivity Description for High Schmidt and Prandtl Turbulent Boundary Layer. *Physics of Fluids*, 37(2), 025219. [Link](https://pubs.aip.org/aip/pof/article/37/2/025219/3337468/A-modified-two-layer-scalar-diffusivity) [Main Reference for the Two Layer Model]

@@ -1,0 +1,56 @@
+{
+  "defaults": {
+    "C": 10.0,
+    "powRe": 3.0,
+    "powSc": 3.3
+  },
+  "models": [
+    { "name":"TLModel_Tis_Sc_100",  "ReTau":395, "Sc":100,  "preset":"default" },
+    { "name":"TLModel_Tis_Sc_200",  "ReTau":395, "Sc":200,  "preset":"default" },
+
+    { "name":"TLModel_Tis_Sc_500",      "ReTau":150, "Sc":500,  "preset":"hs2009" },
+    { "name":"TLModel_Ma_2015_Sc_500",  "ReTau":400, "Sc":500,  "preset":"default" },
+
+    { "name":"TLModel_PI_2023_Pr_16",   "ReTau":1070,"Sc":16,   "preset":"pi2023_const" },
+
+    { "name":"TLModel_HS_2009_Pr_100",  "ReTau":150, "Sc":100,  "preset":"hs2009" },
+    { "name":"TLModel_HS_2009_Pr_200",  "ReTau":150, "Sc":200,  "preset":"hs2009" },
+    { "name":"TLModel_HS_2009_Pr_400",  "ReTau":150, "Sc":400,  "preset":"hs2009" },
+
+    { "name":"TLModel_SM_2007_Pr_1",    "ReTau":180, "Sc":1,    "preset":"sm2007_const" },
+    { "name":"TLModel_Ma_2015_Pr_1",    "ReTau":400, "Sc":1,    "preset":"ma2015_const" },
+    { "name":"TLModel_SM_2007_Pr_3",    "ReTau":180, "Sc":3,    "preset":"sm2007_const" },
+    { "name":"TLModel_Ma_2015_Pr_3",    "ReTau":400, "Sc":3,    "preset":"ma2015_const" },
+    { "name":"TLModel_SM_2007_Pr_10",   "ReTau":180, "Sc":10,   "preset":"sm2007_const" },
+    { "name":"TLModel_Ma_2015_Pr_10",   "ReTau":400, "Sc":10,   "preset":"ma2015_const" },
+    { "name":"TLModel_SM_2007_Pr_25",   "ReTau":180, "Sc":25,   "preset":"sm2007_const" },
+    { "name":"TLModel_Ma_2015_Pr_25",   "ReTau":400, "Sc":25,   "preset":"ma2015_const" },
+    { "name":"TLModel_SM_2007_Pr_49",   "ReTau":180, "Sc":49,   "preset":"sm2007_const" },
+    { "name":"TLModel_SM_2007_Pr_50",   "ReTau":180, "Sc":50,   "preset":"sm2007_const" },
+    { "name":"TLModel_Ma_2015_Pr_50",   "ReTau":400, "Sc":50,   "preset":"ma2015_const" },
+
+    { "name":"TLModel_Na_2000_Pr_100",  "ReTau":150, "Sc":100,  "preset":"hs2009" },
+    { "name":"TLModel_Na_2000_Pr_500",  "ReTau":150, "Sc":500,  "preset":"hs2009" },
+    { "name":"TLModel_Na_2000_Pr_2400", "ReTau":180, "Sc":2400, "preset":"hs2009" },
+
+    { "name":"TLModel_Ri_2023_Pr_6_420",  "ReTau":420,  "Sc":6, "preset":"ri2023_const" },
+    { "name":"TLModel_Ri_2023_Pr_6_628",  "ReTau":628,  "Sc":6, "preset":"ri2023_const" },
+    { "name":"TLModel_Ri_2023_Pr_6_830",  "ReTau":830,  "Sc":6, "preset":"ri2023_const" },
+    { "name":"TLModel_Ri_2023_Pr_6_1070", "ReTau":1070, "Sc":6, "preset":"ri2023_const" },
+
+    { "name":"TLModel_Ri_2023_Pr_4_420",  "ReTau":420,  "Sc":4, "preset":"ri2023_const" },
+    { "name":"TLModel_Ri_2023_Pr_4_628",  "ReTau":628,  "Sc":4, "preset":"ri2023_const" },
+    { "name":"TLModel_Ri_2023_Pr_4_830",  "ReTau":830,  "Sc":4, "preset":"ri2023_const" },
+    { "name":"TLModel_Ri_2023_Pr_4_1070", "ReTau":1070, "Sc":4, "preset":"ri2023_const" },
+
+    { "name":"TLModel_Ri_2023_Pr_2_420",  "ReTau":420,  "Sc":2, "preset":"ri2023_const" },
+    { "name":"TLModel_Ri_2023_Pr_2_628",  "ReTau":628,  "Sc":2, "preset":"ri2023_const" },
+    { "name":"TLModel_Ri_2023_Pr_2_830",  "ReTau":830,  "Sc":2, "preset":"ri2023_const" },
+    { "name":"TLModel_Ri_2023_Pr_2_1070", "ReTau":1070, "Sc":2, "preset":"ri2023_const" },
+
+    { "name":"TLModel_Ri_2023_Pr_1_420",  "ReTau":420,  "Sc":1, "preset":"ri2023_const" },
+    { "name":"TLModel_Ri_2023_Pr_1_628",  "ReTau":628,  "Sc":1, "preset":"ri2023_const" },
+    { "name":"TLModel_Ri_2023_Pr_1_830",  "ReTau":830,  "Sc":1, "preset":"ri2023_const" },
+    { "name":"TLModel_Ri_2023_Pr_1_1070", "ReTau":1070, "Sc":1, "preset":"ri2023_const" }
+  ]
+}

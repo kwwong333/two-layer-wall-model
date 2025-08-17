@@ -12,8 +12,8 @@ The correspond integral wall model, can be expressed as,
 
 $$
 c^+ \=\ 
-\int \left[
-   1 + \dfrac{y^+}{Sc\ Re_\tau} \right] \frac{Sc}
+\int  \frac{
+   Sc + \dfrac{y^+}{\ Re_\tau}}
         { 1 + Sc \ \left[ \dfrac{ \beta k_{Re}\ {y^+}^3 \ +\  (1-\beta)\ k_{Sc}\ {y^+}^{3.3} }
                     { (k_{Re}\ y^+)^2 \+\ C_{th}^2 } \right]} dy^+
 $$

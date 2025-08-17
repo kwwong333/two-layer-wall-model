@@ -1,4 +1,4 @@
-## Two-Layer Model for High Schmidt and Prandtl Turbulent Boundary Layer
+# Two-Layer Model for High Schmidt and Prandtl Turbulent Boundary Layer
 Implementation of Two-Layer Wall Model for High Schmidt and Prandtl Numebr under Various Frictional Reynolds Number Conditions
 
 ## Model Description

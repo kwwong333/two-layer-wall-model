@@ -26,8 +26,8 @@ $$
 1. Wong, K. W.* , Mickus, I., Grishchenko, D., Kudinov, P. (2025). A Modified Two-Layer Scalar Diffusivity Description for High Schmidt and Prandtl Turbulent Boundary Layer. *Physics of Fluids*, 37(2), 025219. [Link](https://pubs.aip.org/aip/pof/article/37/2/025219/3337468/A-modified-two-layer-scalar-diffusivity) [Main Reference for the Two Layer Model]
 ### Conference Publications
 1. Wong, K. W.\*, Mickus, I., Grishchenko, D., Kudinov, P. (2025). RANS Validation of Two-Layer Scalar Diffusivity Model for High Schmidt Mass Transfer Problems, the 21th International Topical Meeting on Nuclear Reactor Thermal-Hydraulics (NURETH-21), Busan, Korea. 
-2. Wong, K. W.\*, Mickus, I., Grishchenko, D., Kudinov, P. (2024). Enabling Passive Scalar Wall Modelling in Large Eddy Simulation for Turbulent Flows at High Schmidt or Prandtl Numbers, Abstract Submitted to 31th International Conference on Nuclear Engineering (ICONE-31), Prague, Czech Republic.
-3. Wong, K. W.\*, Mickus, I., Grishchenko, D., Kudinov, P. (2024). Empirical Two-Layer Model for Predicting Near-Wall Diffusive Flux at High Schimdt or Prandtl Numbers, 12th International Conference in Computational Fluid Dynamics (ICCFD-12), Kobe, Japan.
+2. Wong, K. W.\*, Mickus, I., Grishchenko, D., Kudinov, P. (2024). Enabling Passive Scalar Wall Modelling in Large Eddy Simulation for Turbulent Flows at High Schmidt or Prandtl Numbers, 31th International Conference on Nuclear Engineering (ICONE-31), Prague, Czech Republic. [Link](https://asmedigitalcollection.asme.org/ICONE/proceedings-abstract/ICONE31/88315/V011T15A003/1208429)
+3. Wong, K. W.\*, Mickus, I., Grishchenko, D., Kudinov, P. (2024). Empirical Two-Layer Model for Predicting Near-Wall Diffusive Flux at High Schimdt or Prandtl Numbers, 12th International Conference in Computational Fluid Dynamics (ICCFD-12), Kobe, Japan. [Link](https://www.iccfd.org/iccfd12/assets/pdf/papers/ICCFD12_Paper_13-B-04.pdf)
 
 ## Acknowledgement
 Current research was supported by the Swedish Foundation for Strategic Research (SSF) through Grant No. ARC190043 granted to the Sustainable Nuclear Energy Research in Sweden (SUNRISE) project.

@@ -1,6 +1,25 @@
 # Two-Layer-Wall-Model
 Implementation of Two-Layer Wall Model for High Schmidt and Prandtl Numebr under Various Frictional Reynolds Number Conditions
 
+# Model Description
+The equations of two-layer scalar turbulent diffusivity can be written as,
+
+$$
+\alpha^+ \=\ 
+\frac{ \beta k_{Re}\ {y^+}^3 \+\ (1-\beta)\ k_{Sc}\,{y^+}^{3.3} }
+     { (k_{Re}\ y^+)^2 \+\ C_{th}^2 }
+$$
+
+The correspond integral wall model, can be expressed as,
+
+$$
+c^+ \=\ 
+\int \left[
+   1 + \dfrac{y^+}{Sc\ Re_\tau} \right] \frac{Sc}
+        { 1 + Sc \ \dfrac{ \beta k_{Re}\ {y^+}^3 \ +\  (1-\beta)\ k_{Sc}\ {y^+}^{3.3} }
+                             { (k_{Re}\ y^+)^2 \+\ C_{th}^2 } }
+ \ dy^+
+$$
 
 # References
 1. Wong, K. W.* , Mickus, I., Grishchenko, D., Kudinov, P. (2025). A Modified Two-Layer Scalar Diffusivity Description for High Schmidt and Prandtl Turbulent Boundary Layer. *Physics of Fluids*, 37(2), 025219. [Link](https://pubs.aip.org/aip/pof/article/37/2/025219/3337468/A-modified-two-layer-scalar-diffusivity)

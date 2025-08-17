@@ -1,5 +1,6 @@
 # Two-Layer Model for High Schmidt and Prandtl Turbulent Boundary Layer
 ## Model Description
+### Two-Layer Wall Model Description
 The equations of two-layer scalar turbulent diffusivity can be written as,
 
 $$
